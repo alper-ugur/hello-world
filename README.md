@@ -1,5 +1,5 @@
 # hello-world
-en excited hello reppository
+an excited hello reppository
 now changing with a code:
 print ("hello world!)
 
